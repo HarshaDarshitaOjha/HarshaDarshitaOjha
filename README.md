@@ -26,7 +26,7 @@ class Enforcer:
         self.intellect = {
             "institution": "KIIT University",
             "major": "Computer Science & Engineering",
-            "gpa": "8.69 / 10.00",
+            "gpa": "8.72 / 10.00",
             "graduation": "May 2028"
         }
         self.disciplines = {
